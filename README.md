@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **predictive model creation**
 
-- 💬 Ask me about **Python,R, PyTorch**
+- 💬 Ask me about **Python, R, PyTorch**
 
 - 📫 How to reach me **sankarshansacharya@gmail.com**
 
